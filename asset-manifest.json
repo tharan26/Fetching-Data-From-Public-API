@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fetching-Data-From-Public-API/static/css/main.daa88320.css",
+    "main.js": "/Fetching-Data-From-Public-API/static/js/main.b40d2747.js",
+    "index.html": "/Fetching-Data-From-Public-API/index.html",
+    "main.daa88320.css.map": "/Fetching-Data-From-Public-API/static/css/main.daa88320.css.map",
+    "main.b40d2747.js.map": "/Fetching-Data-From-Public-API/static/js/main.b40d2747.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daa88320.css",
+    "static/js/main.b40d2747.js"
+  ]
+}
