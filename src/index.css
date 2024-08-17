@@ -22,3 +22,9 @@ li{
     font-size: x-large;
     color: lightgrey;
 }
+
+p{
+    font-family: monospace;
+    color: white;
+    font-size: xx-large;
+}
